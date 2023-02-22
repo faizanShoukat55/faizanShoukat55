@@ -24,3 +24,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faizanShoukat55&show_icons=true&locale=en&layout=compact" alt="usaid asif" /></p>
 
+
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faizanshoukat55&show_icons=true&locale=en" alt="usaid asif" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faizanshoukat55&" alt="usaid asif" /></p>
+
