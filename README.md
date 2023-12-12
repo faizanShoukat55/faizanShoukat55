@@ -8,6 +8,8 @@
 - 📫 How to reach me **Faizanshoukat45@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/faizan-shoukat-7a104415b/](https://www.linkedin.com/in/faizan-shoukat-7a104415b/)
+  
+- 📄 Know about my articles [https://medium.com/@faizanshoukat45](https://medium.com/@faizanshoukat45)
 
 - ⚡ Fun fact **I love to learn about software development**
 
