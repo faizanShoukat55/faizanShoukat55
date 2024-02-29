@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faizan Shoukat</h1>
 <h3 align="center">Flutter developer | Native Android developer 👨‍💻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=usaid-dev&label=Profile%20views&color=0e75b6&style=flat" alt="usaid-dev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=usaid-dev&label=Profile%20views&color=0e75b6&style=flat" alt="faizan-dev" /> </p>
 
 - 💬 Ask me about **Flutter, Android (Java | Kotlin)**
 
